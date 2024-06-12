@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Izzy and I'm a dev from the San Francisco Bay Area
 <!--
 **izzyhandkammer/izzyhandkammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
